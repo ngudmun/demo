@@ -1,0 +1,5 @@
+
+
+I had been working on a site for about 2 years, and one of the PM's decided to go to a new position. We hired a new PM, we'll call her N. She had a lot to prove and really wanted to make her mark. In addition to being a PM, she had also been a developer in the past, so she was constantly debugging issues for the developers (not always correctly) and leading us towards solutions that weren't logical. I spoke with her and asked if she would be ok just creating the tickets and letting us developers handle the code aspect of it, and she got very defensive. It wasn't my intent to make her upset, but just try to get things back to working smoothly.
+
+After a few weeks of snippy comments from her, I mentioned it to my boss, who agreed that she was overstepping her job role. He talked with her manager, and after some conversations with her, things started to get better and she was more part of the team. It worked well because it came from her boss, not her peers, so there weren't any interpersonal issues to deal with.

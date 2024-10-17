@@ -1,0 +1,15 @@
+Hello!
+
+I have built and launched many websites over the years. One of the ones I built and launched recently was https://wwwustires.org. I was the development lead as well as backend dev.
+
+I was responsible for all deployments, code reviews, and server architecture. This particular site uses platform.sh to manage the different environments.
+
+I was also the primary backend developer to integrate with their 3rd party sso system (Impexium) as well as utilizing it for user data, which synced with Drupal Groups and user profiles for a seamless UI experience on the new site.
+
+The cloud-based system makes life easier for developers to get up and running, as well as ensure deployments go smoothly. It integrates with gitlab for CI upon production git merges.
+
+
+
+
+Another site I worked on for many years was https://dixonvalve.com. It is a large plumbing website with 200k+ Drupal Commerce products available to certain user roles. The site looks dated but it is quite functional for plumbers all over the USA. It communicates heavily with many 3rd party integrations from Hubspot to online chat systems, as well as multiple existing custom ERP systems (based on the country as the site is multilanguage).
+
